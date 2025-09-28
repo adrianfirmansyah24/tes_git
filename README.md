@@ -1,1 +1,2 @@
 # tes_git
+# THIS IS TES FOR REPOSITORY GIT
