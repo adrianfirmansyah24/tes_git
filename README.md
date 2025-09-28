@@ -1,2 +1,3 @@
-# tes_git
-# THIS IS TES FOR REPOSITORY GIT
+# hallo nama saya adrian
+# haii nama gua anjayyyy
+
